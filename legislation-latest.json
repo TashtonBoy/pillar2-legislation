@@ -1,432 +1,685 @@
 {
-  "schemaVersion": 1,
-  "asOf": "2026-06-25",
-  "updatedBy": "PwC Pillar Two tracker summary",
-  "jurisdictions": {
-    "China": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Hong Kong SAR": {
-      "iir": "2025-01-01",
-      "qdmtt": "2025-01-01",
-      "utpr": null
-    },
-    "Taiwan (China)": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Singapore": {
-      "iir": "2025-01-01",
-      "qdmtt": "2025-01-01",
-      "utpr": null
-    },
-    "Japan": {
-      "iir": "2024-04-01",
-      "qdmtt": "2026-04-01",
-      "utpr": "2026-04-01"
-    },
-    "South Korea": {
-      "iir": "2024-01-01",
-      "qdmtt": "2026-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Vietnam": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": null
-    },
-    "Thailand": {
-      "iir": "2025-01-01",
-      "qdmtt": "2025-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Malaysia": {
-      "iir": "2025-01-01",
-      "qdmtt": "2025-01-01",
-      "utpr": null
-    },
-    "Indonesia": {
-      "iir": "2025-01-01",
-      "qdmtt": "2025-01-01",
-      "utpr": "2026-01-01"
-    },
-    "India": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Philippines": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Cambodia": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Mongolia": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Kazakhstan": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "United Kingdom": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Ireland": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Netherlands": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Germany": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "France": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Luxembourg": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Switzerland": {
-      "iir": "2025-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": null
-    },
-    "Italy": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Spain": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Poland": {
-      "iir": "2025-01-01",
-      "qdmtt": "2025-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Czech Republic": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Estonia": {
-      "iir": "2029-01-01",
-      "qdmtt": "2029-01-01",
-      "utpr": "2029-01-01",
-      "df": "I,Q,U"
-    },
-    "Latvia": {
-      "iir": "2029-01-01",
-      "qdmtt": "2029-01-01",
-      "utpr": "2029-01-01",
-      "df": "I,Q,U"
-    },
-    "Lithuania": {
-      "iir": "2029-01-01",
-      "qdmtt": "2029-01-01",
-      "utpr": "2029-01-01",
-      "df": "I,Q,U"
-    },
-    "Slovakia": {
-      "iir": "2029-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2029-01-01",
-      "df": "I,U"
-    },
-    "Slovenia": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Croatia": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Hungary": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Romania": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Bulgaria": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Greece": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Cyprus": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Malta": {
-      "iir": "2029-01-01",
-      "qdmtt": "2029-01-01",
-      "utpr": "2029-01-01",
-      "df": "I,Q,U"
-    },
-    "Portugal": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Austria": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Belgium": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Denmark": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Finland": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Sweden": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Norway": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Liechtenstein": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": null
-    },
-    "Turkey": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Serbia": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Bosnia and Herzegovina": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Montenegro": {
-      "iir": null,
-      "qdmtt": "2026-01-01",
-      "utpr": null
-    },
-    "North Macedonia": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "Ukraine": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Russia": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "United States": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Canada": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2026-01-01"
-    },
-    "Mexico": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Brazil": {
-      "iir": null,
-      "qdmtt": "2025-01-01",
-      "utpr": null
-    },
-    "Argentina": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Chile": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Colombia": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Peru": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Panama": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "United Arab Emirates": {
-      "iir": null,
-      "qdmtt": "2025-01-01",
-      "utpr": null
-    },
-    "Qatar": {
-      "iir": "2025-01-01",
-      "qdmtt": "2025-01-01",
-      "utpr": null
-    },
-    "Saudi Arabia": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Bahrain": {
-      "iir": null,
-      "qdmtt": "2025-01-01",
-      "utpr": null
-    },
-    "Kuwait": {
-      "iir": null,
-      "qdmtt": "2025-01-01",
-      "utpr": null
-    },
-    "Oman": {
-      "iir": "2025-01-01",
-      "qdmtt": "2025-01-01",
-      "utpr": null
-    },
-    "Israel": {
-      "iir": null,
-      "qdmtt": "2026-01-01",
-      "utpr": null
-    },
-    "Australia": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": "2025-01-01"
-    },
-    "New Zealand": {
-      "iir": "2025-01-01",
-      "qdmtt": "2026-01-01",
-      "utpr": "2025-01-01"
-    },
-    "South Africa": {
-      "iir": "2024-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": null
-    },
-    "Egypt": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Morocco": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Ethiopia": {
-      "iir": null,
-      "qdmtt": null,
-      "utpr": null
-    },
-    "Kenya": {
-      "iir": null,
-      "qdmtt": "2025-01-01",
-      "utpr": null
-    },
-    "Mauritius": {
-      "iir": null,
-      "qdmtt": "2025-01-01",
-      "utpr": null
-    },
-    "Gibraltar": {
-      "iir": "2025-01-01",
-      "qdmtt": "2024-01-01",
-      "utpr": null
-    },
-    "Guernsey": {
-      "iir": "2025-01-01",
-      "qdmtt": "2025-01-01",
-      "utpr": null
-    },
-    "Jersey": {
-      "iir": "2025-01-01",
-      "qdmtt": "2025-01-01",
-      "utpr": null
-    },
-    "Isle of Man": {
-      "iir": "2025-01-01",
-      "qdmtt": "2025-01-01",
-      "utpr": null
-    },
-    "Iceland": {
-      "iir": "2026-01-01",
-      "qdmtt": "2026-01-01",
-      "utpr": null
-    },
-    "Barbados": {
-      "iir": null,
-      "qdmtt": "2024-01-01",
-      "utpr": null
-    },
-    "Uruguay": {
-      "iir": null,
-      "qdmtt": "2025-12-16",
-      "utpr": null
-    }
+ "asOf": "2026-08-17",
+ "jurisdictions": {
+  "China": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Hong Kong SAR": {
+   "iir": "2025-01-01",
+   "qdmtt": "2025-01-01",
+   "utpr": null
+  },
+  "Taiwan (China)": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Singapore": {
+   "iir": "2025-01-01",
+   "qdmtt": "2025-01-01",
+   "utpr": null
+  },
+  "Japan": {
+   "iir": "2024-04-01",
+   "qdmtt": "2026-04-01",
+   "utpr": "2026-04-01"
+  },
+  "South Korea": {
+   "iir": "2024-01-01",
+   "qdmtt": "2026-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Vietnam": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": null
+  },
+  "Thailand": {
+   "iir": "2025-01-01",
+   "qdmtt": "2025-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Malaysia": {
+   "iir": "2025-01-01",
+   "qdmtt": "2025-01-01",
+   "utpr": null
+  },
+  "Indonesia": {
+   "iir": "2025-01-01",
+   "qdmtt": "2025-01-01",
+   "utpr": "2026-01-01"
+  },
+  "India": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Philippines": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Cambodia": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Mongolia": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Kazakhstan": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "United Kingdom": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Ireland": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Netherlands": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Germany": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "France": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Luxembourg": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Switzerland": {
+   "iir": "2025-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": null
+  },
+  "Italy": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Spain": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Poland": {
+   "iir": "2025-01-01",
+   "qdmtt": "2025-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Czech Republic": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Estonia": {
+   "iir": "2029-01-01",
+   "qdmtt": "2029-01-01",
+   "utpr": "2029-01-01",
+   "df": "I,Q,U"
+  },
+  "Latvia": {
+   "iir": "2029-01-01",
+   "qdmtt": "2029-01-01",
+   "utpr": "2029-01-01",
+   "df": "I,Q,U"
+  },
+  "Lithuania": {
+   "iir": "2029-01-01",
+   "qdmtt": "2029-01-01",
+   "utpr": "2029-01-01",
+   "df": "I,Q,U"
+  },
+  "Slovakia": {
+   "iir": "2029-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2029-01-01",
+   "df": "I,U"
+  },
+  "Slovenia": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Croatia": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Hungary": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Romania": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Bulgaria": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Greece": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Cyprus": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Malta": {
+   "iir": "2029-01-01",
+   "qdmtt": "2029-01-01",
+   "utpr": "2029-01-01",
+   "df": "I,Q,U"
+  },
+  "Portugal": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Austria": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Belgium": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Denmark": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Finland": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Sweden": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Norway": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Liechtenstein": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": null
+  },
+  "Turkey": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Serbia": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Bosnia and Herzegovina": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Montenegro": {
+   "iir": null,
+   "qdmtt": "2026-01-01",
+   "utpr": null
+  },
+  "North Macedonia": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "Ukraine": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Russia": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "United States": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Canada": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2026-01-01"
+  },
+  "Mexico": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Brazil": {
+   "iir": null,
+   "qdmtt": "2025-01-01",
+   "utpr": null
+  },
+  "Argentina": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Chile": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Colombia": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Peru": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Panama": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "United Arab Emirates": {
+   "iir": null,
+   "qdmtt": "2025-01-01",
+   "utpr": null
+  },
+  "Qatar": {
+   "iir": "2025-01-01",
+   "qdmtt": "2025-01-01",
+   "utpr": null
+  },
+  "Saudi Arabia": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Bahrain": {
+   "iir": null,
+   "qdmtt": "2025-01-01",
+   "utpr": null
+  },
+  "Kuwait": {
+   "iir": null,
+   "qdmtt": "2025-01-01",
+   "utpr": null
+  },
+  "Oman": {
+   "iir": "2025-01-01",
+   "qdmtt": "2025-01-01",
+   "utpr": null
+  },
+  "Israel": {
+   "iir": null,
+   "qdmtt": "2026-01-01",
+   "utpr": null
+  },
+  "Australia": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": "2025-01-01"
+  },
+  "New Zealand": {
+   "iir": "2025-01-01",
+   "qdmtt": "2026-01-01",
+   "utpr": "2025-01-01"
+  },
+  "South Africa": {
+   "iir": "2024-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": null
+  },
+  "Egypt": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Morocco": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Ethiopia": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Kenya": {
+   "iir": null,
+   "qdmtt": "2025-01-01",
+   "utpr": null
+  },
+  "Mauritius": {
+   "iir": null,
+   "qdmtt": "2025-01-01",
+   "utpr": null
+  },
+  "Gibraltar": {
+   "iir": "2025-01-01",
+   "qdmtt": "2024-01-01",
+   "utpr": null
+  },
+  "Guernsey": {
+   "iir": "2025-01-01",
+   "qdmtt": "2025-01-01",
+   "utpr": null
+  },
+  "Jersey": {
+   "iir": "2025-01-01",
+   "qdmtt": "2025-01-01",
+   "utpr": null
+  },
+  "Isle of Man": {
+   "iir": "2025-01-01",
+   "qdmtt": "2025-01-01",
+   "utpr": null
+  },
+  "Iceland": {
+   "iir": "2026-01-01",
+   "qdmtt": "2026-01-01",
+   "utpr": null
+  },
+  "Barbados": {
+   "iir": null,
+   "qdmtt": "2024-01-01",
+   "utpr": null
+  },
+  "Uruguay": {
+   "iir": null,
+   "qdmtt": "2025-12-16",
+   "utpr": null
+  },
+  "Albania": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Angola": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Antigua and Barbuda": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Armenia": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Azerbaijan": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Bahamas": {
+   "iir": null,
+   "qdmtt": "2024-01-01",
+   "utpr": null
+  },
+  "Bermuda": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Bolivia": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "British Virgin Islands": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Cameroon": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Cape Verde": {
+   "iir": null,
+   "qdmtt": "2026-01-01",
+   "utpr": null
+  },
+  "Cayman Islands": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Costa Rica": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Democratic Republic of Congo": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Dominica": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Dominican Republic": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Ecuador": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "El Salvador": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Eswatini": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Georgia": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Greenland": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Guatemala": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Honduras": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Jamaica": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Jordan": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Kosovo": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Liberia": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Moldova": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Monaco": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Mozambique": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Namibia": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Nicaragua": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Nigeria": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Pakistan": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Papua New Guinea": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Paraguay": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Puerto Rico": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Republic of Congo": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Saint Kitts and Nevis": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Saint Lucia": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Saint Vincent and the Grenadines": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Senegal": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Seychelles": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Sierra Leone": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Trinidad and Tobago": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Tunisia": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Uganda": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Uzbekistan": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Zambia": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
+  },
+  "Zimbabwe": {
+   "iir": null,
+   "qdmtt": "2024-01-01",
+   "utpr": null
+  },
+  "Macau": {
+   "iir": null,
+   "qdmtt": null,
+   "utpr": null
   }
+ }
 }
