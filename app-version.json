@@ -1,6 +1,6 @@
 {
-  "appVersion": "v1.24.0",
-  "appUpdated": "2026-10-27",
-  "appNotes": "【v1.24.0】新增「检查更新」功能：打开工具自动检查新版本；工具栏「检查更新」按钮可查看版本对比、更新说明并下载最新版。\n【v1.23.6】修复保存→打开后实体无法分类、排除实体丢失等问题。\n【v1.23.x】税条小段分级显示、征税权图例、悬停显示全名等多项优化。",
+  "appVersion": "v1.24.1",
+  "appUpdated": "2026-10-28",
+  "appNotes": "【v1.24.1】修复保存文件打开后弹窗残留弹出、版本日期未更新、手动检查不同步更新徽章等问题。\n【v1.24.0】新增「检查更新」功能：打开工具自动检查新版本；工具栏「检查更新」按钮可查看版本对比、更新说明并下载最新版。\n【v1.23.6】修复保存→打开后实体无法分类、排除实体丢失等问题。",
   "appUrl": "https://raw.githubusercontent.com/TashtonBoy/pillar2-legislation/main/Pillar-Two-Structure-Visualizer.html"
 }
